@@ -219,7 +219,7 @@ p {
 .button-red {
   background: var(--rose);
   color: white;
-  border-color: var(--rose);
+  border-color: var(--gold);
 }
 
 .button-red:hover {
